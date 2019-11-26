@@ -24,8 +24,8 @@ In this section we will configure the Lifecycle Policy for our Sagemaker instanc
 
 set -e
 pip install --upgrade pip
-git config --global user.name "<YOUR NAME>"
-git config --global user.email "<YOUR@EMAIL>"
+git config --system user.name "<YOUR NAME>"
+git config --system user.email "<YOUR@EMAIL>"
 ```
 
 ### Verification and Debugging
