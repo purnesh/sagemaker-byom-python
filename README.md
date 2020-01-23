@@ -10,7 +10,7 @@ In this Step, we will configure the Sagemaker Instance that we are going to use 
 
 In this section we will configure the Lifecycle Policy for our Sagemaker instance
 
-1. Go to create a new Lify 
+1. Go to create a new Lifecycle Policy
 
 ```
 #!/bin/bash
